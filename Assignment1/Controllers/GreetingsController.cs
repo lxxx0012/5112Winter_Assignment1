@@ -11,8 +11,8 @@ namespace Assignment1.Controllers
     {
         // Return the string "Greeting to {id} people!"
         // Retrun the greeting with an integer value of 3 -> "Greeting to 3 people!"
-        // Retrun the greeting with an integer value of 6 -> "Greeting to 3 people!"
-        // Retrun the greeting with an integer value of 0 -> "Greeting to 3 people!"
+        // Retrun the greeting with an integer value of 6 -> "Greeting to 6 people!"
+        // Retrun the greeting with an integer value of 0 -> "Greeting to 0 people!"
 
         public string Get(int id)
         {
